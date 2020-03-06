@@ -1,2 +1,2 @@
 # Tokyo_Ghoul_Game
-Repositiory for my Tokyo Ghoul game
+It is a game who is based on Tokyo Ghoul.
